@@ -1,4 +1,6 @@
 // 짝수들의 합을 구하는 프로그램 단, 깃허브가 최신의 내용이다
+// 나는 버전3이다
+// 깃허브는 버전5다
 public class ForApplyExam {
 
 	public static void main(String[] args) {
